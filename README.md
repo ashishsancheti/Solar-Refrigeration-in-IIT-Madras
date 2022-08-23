@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-Solar Energy can be used for refrigeration as well. IITM plans to use solar energy for refrigeration purposes, specifically for cooling portable water.
+Solar Energy can be used for refrigeration as well. Indian Institute of Technology, Madras plans to use solar energy for refrigeration purposes, specifically for cooling portable water.
 <br>
 1. Calculate amount of water needed to be cooled on a daily basis for drinking purposes?
 2. The technology used for this application
